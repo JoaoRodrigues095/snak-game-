@@ -1,2 +1,2 @@
 # snak-game-
-eat fruit, zoom zoom. miss fruit, bumb into something = boom boom
+eat fruit, zoom zoom. miss fruit, bump into something = boom boom
